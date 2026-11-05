@@ -1,2 +1,5 @@
-# svos-recensioni-app
-SVOS Recensioni – app pubblicata (solo build, nessun dato). Generato da Fabrizio "Faber" Frigau
+# SVOS Recensioni – app pubblicata
+
+Solo l'app compilata (nessun dato). Accesso con login.
+
+Generato da Fabrizio "Faber" Frigau 🔥
