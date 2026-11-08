@@ -1,4 +1,4 @@
-# SVOS Recensioni – app pubblicata
+# SVOS Reviews – app pubblicata
 
 Solo l'app compilata (nessun dato). Accesso con login.
 
